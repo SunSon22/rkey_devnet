@@ -2,7 +2,6 @@
   "name": "RKEY",
   "symbol": "RKEY",
   "description": "RKEY is a Web3 utility token with 1B supply for real estate and urban hub access.",
-  "image": "https://YOUR_LOGO_URL_HERE.png",
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
@@ -15,3 +14,4 @@
     ]
   }
 }
+

@@ -5,7 +5,7 @@
   "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
-    "category": "image",
+    "category": "token",
     "creators": [
       {
         "address": "7FLfv8vwstkqKhGC3ZLNMZpdd2JoiMopgN4SwZCAfoB2",
@@ -14,4 +14,3 @@
     ]
   }
 }
-
